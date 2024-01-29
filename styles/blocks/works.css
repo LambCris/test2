@@ -1,0 +1,6 @@
+@media (max-width: 576px){
+ 
+  .works-items.items {
+    flex-direction: column;
+  }
+}
